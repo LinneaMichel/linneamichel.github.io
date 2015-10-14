@@ -69,6 +69,12 @@ div.container {
 }
 
 
+@font-face {
+    font-family: "Open Sans";
+    src: url(opensans.ttf);
+}
+
+
 /* underline - animation */
 
 #om {

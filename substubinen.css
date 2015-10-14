@@ -55,6 +55,11 @@ table {
     src: url(besom.ttf);
 }
 
+@font-face {
+    font-family: "Open Sans";
+    src: url(opensans.ttf);
+}
+
 
 div.container {
   width: 1000px;
