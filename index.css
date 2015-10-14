@@ -68,10 +68,8 @@ div.container {
 @font-face {
     font-family: 'besom_2regular';
     src: url('besom.ttf') format('truetype');
-         
     font-weight: normal;
     font-style: normal;
-
 }
 
 /*meny*/
