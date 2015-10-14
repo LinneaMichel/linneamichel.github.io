@@ -79,6 +79,9 @@ div.container {
   margin-bottom: 40px;
 }
 
+.content {
+  margin-bottom: 80px;
+}
 
 /* underline - animation */
 
@@ -198,6 +201,7 @@ body {
 .footer {
   display: table-row;
   height: 1px;
+  margin-top: 100px;
 }
 
 

@@ -208,7 +208,7 @@ div.column-count {
 
 .content img {
   display: inline-block;
-  margin-top: 40px;
+  margin-top: 0px;
   width: 46%
 }
 
@@ -239,7 +239,7 @@ div.column-count {
 
 #frida5 {
   float: right;
-  margin-top: 40px;
+  margin-top: 0px;
   margin-left: -10px;
 }
 
