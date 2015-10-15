@@ -75,6 +75,7 @@ div.container {
 .header {
   margin-top: 20px;
 }
+
 .nav {
   margin-bottom: 40px;
 }
@@ -174,7 +175,11 @@ img {
 .footer { 
   background-color: #E6E6E6;
   margin-top: 80px;
+  display: table-row;
+  height: 1px;
+  margin-top: 100px;
 }
+
 
 .footer p {
   font-family: "Open Sans", Verdana, sans-serif;
@@ -198,16 +203,18 @@ body {
   width: 100%;
 }
 
-.footer {
-  display: table-row;
-  height: 1px;
-  margin-top: 100px;
-}
+
 
 
 .contenttext {
-  margin-top: 45%;
+  float: right;
+  margin-left: 46%;
+  margin-top: 8%;
 
+}
+
+.bild {
+  float: left;
 }
 
 #bildlinnea {
@@ -332,6 +339,7 @@ h1 {
   font-family: Besom;
   font-size: 250%;
   margin-bottom: 10px;
+  width: 120%;
 }
 
 .underline {
@@ -348,7 +356,7 @@ img {
 .content p {
   font-family: Times;
   font-size: 100%;
-  width: 65%;
+  width: 100%;
 }
 
 
@@ -390,8 +398,14 @@ body {
 
 
 .contenttext {
-  margin-top: 55%;
+  float: right;
+  margin-left: 55%;
+  margin-top: 8%;
 
+}
+
+.bild {
+  float: left;
 }
 
 #bildlinnea {
@@ -570,8 +584,14 @@ body {
 }
 
 .contenttext {
+  float: none;
+  margin-left: 0%;
   margin-top: 75%;
 
+}
+
+.bild {
+  float: left;
 }
 
 #bildlinnea {
@@ -759,6 +779,7 @@ body {
 #bildlinnea {
   position: absolute;
   float: none;
+  margin-left: -4%;
 }
 
 
@@ -770,6 +791,7 @@ body {
   -moz-transition: opacity 700ms;
   -o-transition: opacity 700ms;
   transition: opacity 700ms;
+  margin-left: -4%;
 }
 
 
