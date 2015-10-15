@@ -133,14 +133,10 @@ html {
 body {
   height: 100%;
   overflow: scroll;
-  display: table;
   height: 100%;
   width: 100%;
 }
 
-.footer {
-  margin-top: 50px;
-}
 
 /* underline - animation */
 
@@ -229,5 +225,75 @@ img {
 .nav a {
   text-decoration: none;
 }
+
+
+.bilder {
+  width: 1000px;
+  margin: 0 auto;
+}
+
+
+#gulabandet1 {
+  position: absolute;
+  margin-top: 730px;
+}
+
+
+#gulabandet2 {
+  opacity: 0;
+  margin-top: 730px;
+  display: table;
+  position: absolute;
+  -webkit-transition: opacity 700ms;
+  -moz-transition: opacity 700ms;
+  -o-transition: opacity 700ms;
+  transition: opacity 700ms;
+}
+
+
+#gulabandet2:hover {
+  margin-top: 730px;
+  opacity: 1;
+  -webkit-transition: opacity 700ms;
+  -moz-transition: opacity 700ms;
+  -o-transition: opacity 700ms;
+  transition: opacity 700ms;
+}
+
+
+#marke {
+margin-top: 1430px;
+}
+
+
+
+
+#bokhel{
+  position: absolute;
+  margin-top: 30px;
+}
+
+
+#bokhalv {
+  opacity: 0;
+  margin-top: 30px;
+  display: table;
+  position: absolute;
+  -webkit-transition: opacity 700ms;
+  -moz-transition: opacity 700ms;
+  -o-transition: opacity 700ms;
+  transition: opacity 700ms;
+}
+
+
+#bokhalv:hover {
+  margin-top: 30px;
+  opacity: 1;
+  -webkit-transition: opacity 700ms;
+  -moz-transition: opacity 700ms;
+  -o-transition: opacity 700ms;
+  transition: opacity 700ms;
+}
+
 
 
