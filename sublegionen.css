@@ -953,14 +953,14 @@ h2 {
 
 
 div.column-count {
-    -webkit-column-count: 2; /* Chrome, Safari, Opera */
-    -moz-column-count: 2; /* Firefox */
-    column-count: 2;
+    -webkit-column-count: 1; /* Chrome, Safari, Opera */
+    -moz-column-count: 1; /* Firefox */
+    column-count: 1;
      -webkit-column-gap: 50px; /* Chrome, Safari, Opera */
     -moz-column-gap: 50px; /* Firefox */
     column-gap: 50px;
     width: 100%;
-    height: 390px;
+    height: 360px;
 }
 
 
