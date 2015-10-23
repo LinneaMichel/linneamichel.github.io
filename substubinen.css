@@ -99,7 +99,6 @@ ul {
 }
 
 
-
 h1 {
   font-family: Besom;
   font-size: 250%;
@@ -176,7 +175,6 @@ body {
 }
 
 
-
 p {
   font-family: Times;
   line-height: 16px;
@@ -188,7 +186,7 @@ h2 {
 }
 
 .content img {
-    width: 100%;
+    width: 476px;
     position: relative;
     margin-right: 20px;
     margin-bottom: 20px;
@@ -208,13 +206,6 @@ div.column-count {
 }
 
 
-
-.content img {
-  width: 476px;
-}
-
-
-
 .nav {
   margin: 0 auto;}
 
@@ -231,9 +222,9 @@ div.column-count {
   text-decoration: none;
 }
 
-
-
-
+h2 {
+  margin-top: 20px;
+}
 
 
 

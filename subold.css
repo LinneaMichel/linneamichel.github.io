@@ -65,7 +65,7 @@ table {
 div.container {
   width: 1000px;
   margin: 0px auto;
-  background-color: #fff;
+  margin-top: -20px;
 }
 
 .header {

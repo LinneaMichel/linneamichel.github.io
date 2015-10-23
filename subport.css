@@ -65,11 +65,10 @@ table {
 div.container {
   width: 1000px;
   margin: 0px auto;
-  background-color: #fff;
+  margin-top: -20px;
 }
 
 .header {
-  margin-top: 20px;
   margin-bottom: 100px;
 }
 
@@ -98,7 +97,6 @@ ul {
   color: #000;
   margin-right: 430px;
 }
-
 
 
 h1 {
@@ -177,9 +175,9 @@ body {
 }
 
 
-
 p {
   font-family: Times;
+  line-height: 16px;
 }
 
 h2 {
@@ -200,19 +198,10 @@ div.column-count {
 }
 
 
-
-.imghead {
-  margin-top: 20px;
-  margin-bottom: 10px;
-}
-
 .content img {
   display: inline-block;
-  margin-top: 0px;
   width: 46%
 }
-
-
 
 
 .nav {
@@ -266,6 +255,7 @@ div.column-count {
 div.container {
   width: 800px;
   margin: 0px auto;
+  margin-top: -20px;
 }
 
 
@@ -380,7 +370,6 @@ body {
 }
 
 
-
 p {
   font-family: Times;
 }
@@ -404,18 +393,11 @@ div.column-count {
 
 
 
-.imghead {
-  margin-top: 20px;
-  margin-bottom: 10px;
-}
-
 .content img {
   display: inline-block;
   margin-top: 0px;
   width: 46%
 }
-
-
 
 
 .nav {
@@ -470,9 +452,8 @@ div.column-count {
 div.container {
   width: 600px;
   margin: 0px auto;
+  margin-top: -20px;
 }
-
-
 
 
 .header {
@@ -608,11 +589,6 @@ div.column-count {
 }
 
 
-
-.imghead {
-  margin-top: 20px;
-  margin-bottom: 10px;
-}
 
 .content img {
   display: inline-block;
@@ -675,13 +651,12 @@ div.column-count {
 div.container {
   width: 300px;
   margin: 0px auto;
+  margin-top: -20px;
 }
 
 
-
-
 .header {
-  margin-top: 50px;
+  margin-top: 20px;
   margin-bottom: 100px;
 }
 
@@ -711,7 +686,6 @@ ul {
   color: #000;
   margin-right: 50px;
 }
-
 
 
 h1 {
@@ -790,7 +764,6 @@ body {
 }
 
 
-
 p {
   font-family: Times;
 }
@@ -814,18 +787,11 @@ div.column-count {
 
 
 
-.imghead {
-  margin-top: 20px;
-  margin-bottom: 10px;
-}
-
 .content img {
   display: inline-block;
   margin-top: 0px;
   width: 46%
 }
-
-
 
 
 .nav {

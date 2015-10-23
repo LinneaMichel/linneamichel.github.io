@@ -65,7 +65,7 @@ table {
 div.container {
   width: 1000px;
   margin: 0px auto;
-  background-color: #fff;
+  margin-top: -20px;
 }
 
 .header {
@@ -133,6 +133,7 @@ html {
 body {
   height: 100%;
   overflow: scroll;
+  display: table;
   height: 100%;
   width: 100%;
 }
@@ -171,7 +172,6 @@ body {
 #deutsch:hover {
   color: #000;
 }
-
 
 
 p {
@@ -304,6 +304,7 @@ margin-top: 1430px;
 div.container {
   width: 800px;
   margin: 0px auto;
+  margin-top: -20px;
 }
 
 
@@ -569,6 +570,7 @@ margin-top: 1155px;
 div.container {
   width: 600px;
   margin: 0px auto;
+  margin-top: -20px;
 }
 
 
@@ -821,6 +823,7 @@ margin-top: 890px;
 div.container {
   width: 300px;
   margin: 0px auto;
+  margin-top: -20px;
 }
 
 
