@@ -88,7 +88,7 @@ ul {
 .header li {
   list-style-type: none;
   display: inline;
-  padding-right: 70px;
+  padding-right: 50px;
 }
 
 #linneahead {
@@ -139,8 +139,7 @@ body {
 }
 
 .footer {
-  display: table-row;
-  height: 1px;
+  margin-top: 50px;
 }
 
 /* underline - animation */
@@ -217,10 +216,7 @@ div.column-count {
 
 
 
-.imghead {
-  margin-top: 10px;
-  margin-bottom: 10px;
-}
+
 
 
 .link {

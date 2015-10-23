@@ -87,7 +87,7 @@ ul {
 .header li {
   list-style-type: none;
   display: inline;
-  padding-right: 70px;
+  padding-right: 50px;
 }
 
 #linneahead {
@@ -179,6 +179,7 @@ body {
 
 p {
   font-family: Times;
+  line-height: 16px;
 }
 
 h2 {
@@ -213,15 +214,9 @@ div.column-count {
 }
 
 
-.imghead {
-  margin-top: 20px;
-}
-
-
 
 .nav {
-  margin-top: 40px;
-}
+  margin: 0 auto;}
 
 .nav img  {
   width: 40px;
