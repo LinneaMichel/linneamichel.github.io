@@ -272,7 +272,6 @@ div.container {
 }
 
 
-
 .header {
   margin-top: 20px;
   margin-bottom: 100px;
@@ -293,7 +292,7 @@ ul {
 .header li {
   list-style-type: none;
   display: inline;
-  padding-right: 70px;
+  padding-right: 50px;
 }
 
 #linneahead {

@@ -280,7 +280,7 @@ ul {
 .header li {
   list-style-type: none;
   display: inline;
-  padding-right: 70px;
+  padding-right: 50px;
 }
 
 #linneahead {
@@ -600,7 +600,7 @@ div.column-count {
     -moz-column-gap: 50px; /* Firefox */
     column-gap: 50px;
     width: 100%;
-    height: 160px;
+    height: 200px;
     margin-bottom: 30px;
 }
 
@@ -808,7 +808,7 @@ div.column-count {
     -moz-column-gap: 50px; /* Firefox */
     column-gap: 50px;
     width: 100%;
-    height: 300px;
+    height: 370px;
     margin-bottom: 30px;
 }
 
