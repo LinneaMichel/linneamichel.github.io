@@ -320,11 +320,7 @@ ul {
   overflow: hidden;
 }
 
-li {
-  list-style-type: none;
-  display: inline;
-  padding-right: 70px;
-}
+
 
 
 #linneahead {
@@ -499,12 +495,6 @@ div.container {
 
 ul {
   overflow: hidden;
-}
-
-li {
-  list-style-type: none;
-  display: inline;
-  padding-right: 70px;
 }
 
 
@@ -691,11 +681,6 @@ ul {
   overflow: hidden;
 }
 
-li {
-  list-style-type: none;
-  display: inline;
-  padding-right: 50px;
-}
 
 
 #linneahead {
